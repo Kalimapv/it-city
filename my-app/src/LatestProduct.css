@@ -1,0 +1,30 @@
+.linkStyle{
+    text-decoration: none;
+    color: black;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.offer_price{
+    font-weight: 800;
+    font-size: 17px;
+}
+.price{
+    font-size: 13px;
+    text-decoration: line-through;
+}
+
+.card_sty{
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    transition: transform 0.2s ease;
+  }
+.card_sty:hover {
+transform: scale(1.05);
+color: black;
+}
+

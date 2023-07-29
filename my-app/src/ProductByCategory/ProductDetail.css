@@ -1,0 +1,46 @@
+.linkStyle{
+    text-decoration: none;
+}
+.card_sty2
+    {
+        background-color: #f0f0f0;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 16px;
+        
+      }
+.card_sty2:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s ease;
+  }
+.colu1{
+    margin-top: 20px;
+    
+}
+@media screen and (max-width: 699px) {
+    .colu1{
+      /* background-color: lightgreen; */
+      font-size: 22px;
+    }
+}
+
+
+
+
+.colu2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 30px;
+    gap: 20px;
+}
+
+.card-body{
+text-align: center;
+}
+.offer_price{
+    text-align: center;
+}
+.price{  
+    text-decoration: line-through;
+}

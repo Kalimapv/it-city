@@ -1,0 +1,33 @@
+.main{
+    background-color: black;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.first{
+    margin-top: 34px;
+}
+
+.second{
+    margin-top: 48px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+.third{
+    margin-top: 48px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+.fourth{ 
+    margin-top: 48px;
+    margin-left: 30px;
+    font-size: 15px;
+       }
+.Information{
+    margin-top: 20px;
+}
+.Categories{
+    margin-top: 20px;
+}
+.Service{
+    margin-top: 20px;
+}

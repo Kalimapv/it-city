@@ -1,0 +1,26 @@
+.row_sty{
+         text-align: end;
+         }
+
+.btttnnn{
+         width: 40%;
+         height: 40px;
+         border-radius: 6px;
+         }
+
+.view_sty{
+         border-bottom: 2px solid;      
+         }
+
+.img_col{
+         align-items: center;
+         border-right: 1px solid;        
+         }
+
+.Product_detail{
+         align-items: center;
+         }
+
+.img_col2{
+         margin-top:2%;
+         }

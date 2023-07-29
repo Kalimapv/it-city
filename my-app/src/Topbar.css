@@ -1,0 +1,52 @@
+.navCategory{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.navbar-cart{
+    position: relative;
+}
+
+.objLeng{
+    position: absolute;
+    top: -9px;
+    left: 146px;
+    color: bisque;
+    border: 2px solid black;
+    background-color: red;
+    width: 23px;
+    height: 27px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+.nav_backk{
+    background-color: orange;
+    width: 100%; 
+}
+
+.iconnss1{
+color: aqua;
+}
+.nav_container{   
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+    }
+
+.logooo{
+    width: 168px;
+    margin-left: 10px;
+}
+.profile_icon{
+    margin-left: 16px;
+}
+.search_sty{
+    width: 130px;
+    border-radius: 4px;
+}
+.nav-center{
+    margin-left: 0;
+}

@@ -1,0 +1,17 @@
+.shippinggg{
+         display: flex;
+         flex-direction: column;
+}
+
+.header{
+         margin-bottom: 5%; 
+}
+
+.inputs{
+         margin-bottom: 4%;
+}
+
+.btn_style{
+         display: flex;
+         justify-content: space-evenly; 
+}
